@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.appy.store.lite",
     "sha256_cert_fingerprints":
     ["08:EA:38:83:A1:88:00:4C:4D:BC:1E:59:B0:2D:49:59:EB:74:F0:A7:39:DC:14:41:83:D5:D8:F8:71:7D:E8:0E"]
   }
